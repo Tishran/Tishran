@@ -33,9 +33,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tishran&show_icons=true&locale=en" alt="tishran" /></p>
-<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tishran&" alt="tishran" /></p>
 
