@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khamatyarov Rushan</h1>
 <h3 align="center">A passionate backend/ml developer from Moscow, Russia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tishran&label=Profile%20views&color=0e75b6&style=flat" alt="tishran" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tishran&label=Profile%20views&color=0e75b6&style=flat" alt="tishran" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tishran" alt="tishran" /></a> </p>
 
