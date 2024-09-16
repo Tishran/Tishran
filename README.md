@@ -7,7 +7,7 @@
 
 - 🔭 I am currently studying software engineering at **NRNU MEPhI.**
 
-- 🌱 I’m currently learning **backend development at Yandex backend development school.**
+- 🌱 I’m currently studying **Competitive Data Science at Stepik**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Tishran?tab=repositories).
 
