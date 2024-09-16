@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rushan.hamatyrov@mail.ru**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1gWhklZxMkEpsXyJeFdGg9Hyqc82L58mG/view?usp=sharing).
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/162eoafFhJQjJP-td3MJFRZuhzt2noZor/view?usp=sharing).
 
 - ⚡ Fun fact **I love sports, mostly basketball and volleyball.**
 
