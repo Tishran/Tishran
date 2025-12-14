@@ -7,8 +7,6 @@
 
 - 🔭 I am currently studying software engineering at **NRNU MEPhI.**
 
-- 🌱 I’m currently studying **Competitive Data Science at Stepik**
-
 - 👨‍💻 All of my projects are available [here](https://github.com/Tishran?tab=repositories).
 
 - 📫 How to reach me **rushan.hamatyrov@mail.ru**
