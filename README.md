@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tishran" alt="tishran" /></a> </p>
 
-- 🔭 I am currently studying software engineering at **NRNU MEPhI.**
+- 🔭 I am currently studying software engineering.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Tishran?tab=repositories).
 
